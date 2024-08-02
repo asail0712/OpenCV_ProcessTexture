@@ -20,11 +20,12 @@
 - 使用OpenCV對Texture進行處理，得到圖片上物件邊框後，用與畫面上的2D小球發生物理碰撞
 
 # 5.其他
-無
+### 參考資料
+- [Unity + OpenCV Interactive Webcam Video Tutorial](https://www.youtube.com/watch?v=ZV5eejYG6NI)
 
 # 6.聯繫方式和鳴謝
 Email: asail0712@gmail.com
 
 # 7. 附加資源
-### 感謝
-- [Unity + OpenCV Interactive Webcam Video Tutorial](https://www.youtube.com/watch?v=ZV5eejYG6NI)
+無
+
